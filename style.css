@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Space+Grotesk:wght@400;500;600;700&display=swap');
+
+:root {
+  --orange: #ff7a3d;
+  --peach: #ffb49a;
+  --yellow: #ffd84d;
+  --cream: #fff4df;
+  --black: #171717;
+  --white: #fffdf8;
+  --border: 3px solid var(--black);
+  --shadow: 8px 8px 0 var(--black);
+  --radius: 20px;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  scroll-beh
